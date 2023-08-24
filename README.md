@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Taein&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Taeins&layout=compact&theme=tokyonight)
