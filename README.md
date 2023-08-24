@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=mji3988&color=dark)](https://github.com/mji3988/velog-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Moon-Taein&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 //Java
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 //MysQL
