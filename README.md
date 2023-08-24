@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Taein&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Taeins&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Taein&layout=compact&theme=tokyonight)
