@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Moon-Taein&fontSize=90&animation=twinkling)
 
 
-<p align="center">👋 반갑습니다! 문태인입니다 👋 /br </p>
-<p align="center">🌱 웹/백엔드 개발자 🌱 /br </p>
+<p align="center">👋 반갑습니다! 문태인입니다 👋 </br> </p>
+<p align="center">🌱 웹/백엔드 개발자 🌱 </br> </p>
 <p></p>
-<p align="center">😄 Techs that i`ve used at least once 😄 /br </p>
+<p align="center">😄 Techs that i`ve used at least once 😄 </br> </p>
 
 <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
 </div>
 
+</br>
 
 <div align="center" style="display: flex; align-items: flex-start;" >
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
