@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=Moon-Taein&fontSize=90&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Moon-Taein&fontSize=90&animation=twinkling)
 
 👋 
 
