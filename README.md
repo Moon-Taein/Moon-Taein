@@ -2,7 +2,7 @@
 
 
 <p align="center">👋 반갑습니다! 문태인입니다 👋 </br></br> </p>
-<p align="center">🌱 웹/백엔드 개발자 🌱 </br></br> </p>
+<p align="center">🌱 웹 / 백엔드 개발자 🌱 </br></br> </p>
 <p></p>
 <p align="center">😄 Techs that i`ve used at least once 😄 </br></br> </p>
 
