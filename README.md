@@ -4,8 +4,8 @@
 <p align="center">👋 반갑습니다! 문태인입니다 👋</p>
 <p align="center">🌱 웹/백엔드 개발자 🌱</p>
 <p align="center">😄 Techs that i`ve used at least once 😄</p>
-<div>
 
+<div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
@@ -31,7 +31,5 @@
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Taein&show_icons=true&theme=tokyonight)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Taein&layout=compact&theme=tokyonight)
 
