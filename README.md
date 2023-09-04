@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Moon-Taein&fontSize=90&animation=twinkling)
 
 <center>👋 반갑습니다! 문태인입니다 👋</center>
-
+<p></p>
 <center>🌱 웹/백엔드 개발자 🌱</center>
-
+<p></p>
 <center>😄 Techs that i`ve used at least once 😄</center>
 <div>
 
