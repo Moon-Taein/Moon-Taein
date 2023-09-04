@@ -5,7 +5,7 @@
 🌱 웹/백엔드 개발자 🌱
 
 😄 Techs that i`ve used at least once 😄
-<div>
+<div margin= 0 auto>
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
@@ -22,7 +22,7 @@
 </div>
 
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start margin: 0 auto;">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
@@ -30,8 +30,9 @@
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
+<div margin= 0 auto>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Moon-Taein&show_icons=true&theme=tokyonight)
-
-<p></p>
-
+</div>
+<div margin= 0 auto>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moon-Taein&layout=compact&theme=tokyonight)
+</div>
